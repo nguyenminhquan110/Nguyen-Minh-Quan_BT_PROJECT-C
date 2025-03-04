@@ -1,0 +1,27 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stdbool.h>
+#include <ctype.h>
+
+void loadFileUser();
+void addUser();
+void saveFileUser();
+void displayUser();
+void searchByName();
+int checkLength();
+int checkDuplicate();
+int checkPhone();
+int checkDate();
+void searchById();
+void statusUser();
+void lock();
+void down();
+void up();
+void loadFileAdmin();
+void signUpAdmin();
+void loginUser();
+void changeAdminPassword();
+void editUser();
+void changeUserPassword();
+void displayAnUser();
